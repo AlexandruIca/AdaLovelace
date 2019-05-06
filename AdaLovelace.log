@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.4.23)  6 MAY 2019 18:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.4.23)  6 MAY 2019 19:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -434,13 +434,11 @@ Package biblatex Info: ... file 'AdaLovelace.bbl' found.
  (./AdaLovelace.bbl)
 Package biblatex Info: Reference section=0 on input line 12.
 Package biblatex Info: Reference segment=0 on input line 12.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 17.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 17.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./AdaLovelace.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 12.
 )
@@ -500,25 +498,23 @@ Package logreq Info: Writing requests to 'AdaLovelace.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 219.
  ) 
 Here is how much of TeX's memory you used:
- 11440 strings out of 492615
- 197335 string characters out of 6131390
+ 11435 strings out of 492615
+ 197260 string characters out of 6131390
  653007 words of memory out of 5000000
- 15263 multiletter control sequences out of 15000+600000
- 6588 words of font info for 24 fonts, out of 8000000 for 9000
+ 15259 multiletter control sequences out of 15000+600000
+ 5973 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,6n,45p,916b,1657s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,4n,45p,916b,1658s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmtt10.pfb>
-Output written on AdaLovelace.pdf (13 pages, 146073 bytes).
+xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on AdaLovelace.pdf (13 pages, 125468 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
- 207 compressed objects within 3 object streams
+ 225 PDF objects out of 1000 (max. 8388607)
+ 201 compressed objects within 3 object streams
  47 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
