@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.4.23)  6 MAY 2019 19:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.4.23)  6 JUN 2019 19:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**AdaLovelace.tex
-(./AdaLovelace.tex
+**/media/MHDD/devel/AdaLovelaceGithub/AdaLovelace.tex
+(/media/MHDD/devel/AdaLovelaceGithub/AdaLovelace.tex
 LaTeX2e <2018-12-01>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -498,13 +498,13 @@ Package logreq Info: Writing requests to 'AdaLovelace.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 219.
  ) 
 Here is how much of TeX's memory you used:
- 11435 strings out of 492615
- 197260 string characters out of 6131390
+ 11436 strings out of 492615
+ 197366 string characters out of 6131390
  653007 words of memory out of 5000000
  15259 multiletter control sequences out of 15000+600000
  5973 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,4n,45p,916b,1658s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,4n,45p,952b,1658s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex

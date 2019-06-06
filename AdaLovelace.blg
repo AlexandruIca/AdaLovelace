@@ -1,32 +1,32 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [0] Config.pm:307> INFO - Logfile is 'AdaLovelace.blg'
-[44] biber:315> INFO - === Lu mai  6, 2019, 19:06:45
-[74] Biber.pm:371> INFO - Reading 'AdaLovelace.bcf'
-[178] Biber.pm:889> INFO - Found 19 citekeys in bib section 0
+[45] biber:315> INFO - === Jo iun  6, 2019, 19:38:17
+[78] Biber.pm:371> INFO - Reading 'AdaLovelace.bcf'
+[179] Biber.pm:889> INFO - Found 19 citekeys in bib section 0
 [201] Biber.pm:4093> INFO - Processing section 0
-[216] Biber.pm:4254> INFO - Looking for bibtex format file 'AdaLovelace.bib' for section 0
-[218] bibtex.pm:1512> INFO - LaTeX decoding ...
-[240] bibtex.pm:1329> INFO - Found BibTeX data source 'AdaLovelace.bib'
-[244] Utils.pm:193> WARN - month field 'May' in entry 'TheInternet' is not an integer - this will probably not sort properly.
-[245] Utils.pm:193> WARN - month field 'March' in entry 'Wikipedia' is not an integer - this will probably not sort properly.
-[247] Utils.pm:193> WARN - month field 'October' in entry 'MentalFloss' is not an integer - this will probably not sort properly.
-[248] Utils.pm:193> WARN - month field 'January' in entry 'famousscientists' is not an integer - this will probably not sort properly.
-[249] Utils.pm:193> WARN - month field 'January' in entry 'biographydotcom' is not an integer - this will probably not sort properly.
-[251] Utils.pm:193> WARN - month field 'May' in entry 'AdaLovelaceBabbageEngine' is not an integer - this will probably not sort properly.
-[252] Utils.pm:193> WARN - month field 'April' in entry 'Phrenology' is not an integer - this will probably not sort properly.
-[253] Utils.pm:193> WARN - month field 'February' in entry 'Mesmerism' is not an integer - this will probably not sort properly.
-[254] Utils.pm:193> WARN - month field 'February' in entry 'CalculusOfNervousSystem' is not an integer - this will probably not sort properly.
-[255] Utils.pm:193> WARN - month field 'December' in entry 'Enchantress' is not an integer - this will probably not sort properly.
-[256] Utils.pm:193> WARN - month field 'September' in entry 'Sketch' is not an integer - this will probably not sort properly.
-[258] Utils.pm:193> WARN - month field 'May' in entry 'Bug' is not an integer - this will probably not sort properly.
-[266] Utils.pm:193> WARN - month field 'April' in entry 'AdaLang' is not an integer - this will probably not sort properly.
-[267] Utils.pm:193> WARN - month field 'March' in entry 'AdaCollege' is not an integer - this will probably not sort properly.
-[268] Utils.pm:193> WARN - month field 'May' in entry 'Editathon' is not an integer - this will probably not sort properly.
-[269] Utils.pm:193> WARN - month field 'May' in entry 'OpenSource' is not an integer - this will probably not sort properly.
-[307] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[307] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[307] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[307] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[220] Biber.pm:4254> INFO - Looking for bibtex format file 'AdaLovelace.bib' for section 0
+[221] bibtex.pm:1512> INFO - LaTeX decoding ...
+[243] bibtex.pm:1329> INFO - Found BibTeX data source 'AdaLovelace.bib'
+[247] Utils.pm:193> WARN - month field 'May' in entry 'TheInternet' is not an integer - this will probably not sort properly.
+[248] Utils.pm:193> WARN - month field 'March' in entry 'Wikipedia' is not an integer - this will probably not sort properly.
+[249] Utils.pm:193> WARN - month field 'October' in entry 'MentalFloss' is not an integer - this will probably not sort properly.
+[250] Utils.pm:193> WARN - month field 'January' in entry 'famousscientists' is not an integer - this will probably not sort properly.
+[251] Utils.pm:193> WARN - month field 'January' in entry 'biographydotcom' is not an integer - this will probably not sort properly.
+[253] Utils.pm:193> WARN - month field 'May' in entry 'AdaLovelaceBabbageEngine' is not an integer - this will probably not sort properly.
+[254] Utils.pm:193> WARN - month field 'April' in entry 'Phrenology' is not an integer - this will probably not sort properly.
+[255] Utils.pm:193> WARN - month field 'February' in entry 'Mesmerism' is not an integer - this will probably not sort properly.
+[256] Utils.pm:193> WARN - month field 'February' in entry 'CalculusOfNervousSystem' is not an integer - this will probably not sort properly.
+[257] Utils.pm:193> WARN - month field 'December' in entry 'Enchantress' is not an integer - this will probably not sort properly.
+[258] Utils.pm:193> WARN - month field 'September' in entry 'Sketch' is not an integer - this will probably not sort properly.
+[260] Utils.pm:193> WARN - month field 'May' in entry 'Bug' is not an integer - this will probably not sort properly.
+[267] Utils.pm:193> WARN - month field 'April' in entry 'AdaLang' is not an integer - this will probably not sort properly.
+[268] Utils.pm:193> WARN - month field 'March' in entry 'AdaCollege' is not an integer - this will probably not sort properly.
+[269] Utils.pm:193> WARN - month field 'May' in entry 'Editathon' is not an integer - this will probably not sort properly.
+[270] Utils.pm:193> WARN - month field 'May' in entry 'OpenSource' is not an integer - this will probably not sort properly.
+[306] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[306] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[306] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[306] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
 [331] bbl.pm:636> INFO - Writing 'AdaLovelace.bbl' with encoding 'UTF-8'
-[336] bbl.pm:739> INFO - Output to AdaLovelace.bbl
-[336] Biber.pm:110> INFO - WARNINGS: 16
+[335] bbl.pm:739> INFO - Output to AdaLovelace.bbl
+[335] Biber.pm:110> INFO - WARNINGS: 16
